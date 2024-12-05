@@ -175,26 +175,6 @@
          "image": "https://image.tmdb.org/t/p/w500/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
          "playerLabel": "Εκτός ελέγχου",
          "action": "video:https://www.sw.vidce.net/d/iPO5oDRIjwSfTpu9jze2fA/1690983767/2018/2015/tt5884796.mp4"
-      },
-      {
-         "title": "Το μενού",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}7.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
-         "playerLabel": "Το μενού",
-         "action": "video:https://s1.hdvbua.pro/media1/content/stream/new/scrubs.s01e01.stb.mvo_53150/hls/480/index.m3u8"
-      },
-         {
-         "title": "Це все вона»",
-         "titleFooter": "1999",
-         "badge": "{col:msx-white}5.9",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/vZNPuKS6XHVJa6zXYzF4ziIfs5c.jpg",
-         "playerLabel": "Це все вона»",
-         "action": "video:https://s1.hdvbua.pro/media1/content/stream/chest/shes_all_that_1999_bdrip_1080p_65769/hls/1080/index.m3u8"
       }
    ]
 }
