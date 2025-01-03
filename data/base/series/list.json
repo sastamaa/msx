@@ -9,22 +9,49 @@
    },
    "items": [
       {
-         "title": "Avatar: The Last Airbender",
+         "title": "Dune: Prophecy",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}7.4",
+         "badge": "{col:msx-white}7.3",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/avatar.json"
+         "image": "https://image.tmdb.org/t/p/w780/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/dune.json"
       },
       {
-         "title": "Entrevías",
+         "title": "Landman",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}6.9",
+         "badge": "{col:msx-white}8.3",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/dJWFFoMgY0t6CmsbRlR2TBazfqt.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/entrevias.json"
+         "image": "https://image.tmdb.org/t/p/w780/AnLq5YSssNWpiD06iYF69wFiaNh.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/landman.json"
+      },
+      {
+         "title": "Cobra Kai",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}8.4",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/cJLRTZ55xgp7htkOVdeSQ82E7xN.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cobra_kai.json"
+      },
+      {
+         "title": "The Day of the Jackal",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}8.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/jackal.json"
+      },
+      {
+         "title": "The Boys",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}8.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_boys.json"
       },
       {
          "title": "Anne Rice's Mayfair Witches",
