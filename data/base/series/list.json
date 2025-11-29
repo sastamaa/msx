@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Stranger Things",
+         "titleFooter": "2025",
+         "badge": "{col:msx-white}8.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/stranger_things.json"
+      },
+      {
          "title": "Dune: Prophecy",
          "titleFooter": "2024",
          "badge": "{col:msx-white}7.3",
