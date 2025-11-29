@@ -18,44 +18,10 @@
    },
    "items": [
        {
-         "title": "Κόναν, ο βάρβαρος",
-         "titleFooter": "1982",
-         "badge": "{col:msx-white}6.4",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
-         "playerLabel": "Κόναν, ο βάρβαρος",
-         "action": "video:https://www.nd.vidce.net/d/ENJpc9vr7h2C6Ib7Sf6ryg/1737408374/video/2015/tt0082198.mp4"
-      },
- {
-         "title": "Red One",
+         "title": "Culpa tuya",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}6.4",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/dpskAcm71w5v8zQ8RmPmJiP31Om.jpg",
-         "playerLabel": "Red One",
-         "action": "video:https://www.sw.vidce.net/d/C1IhnU6ABUdD1NLglHOn9w/1736535042/video/2015/tt14948432.mp4"
-      },
-      {
-         "title": "Ο μελισσοκόμος",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}6.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/hz1QuFW85VxAhKKaaaf9rBjA2a0.jpg",
-         "playerLabel": "Ο μελισσοκόμος",
-         "action": "video:https://www.sw.vidce.net/d/mQalwq3yTm2aOeKTYXqLyA/1736536090/video/2015/tt15314262.mp4"
-      },
-      {
-         "title": "Γουόνκα",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/2jGEPpok8ioViQ4Ck8ofVZgfOPd.jpg",
-         "playerLabel": "Γουόνκα",
-         "action": "video:https://www.sw.vidce.net/d/GTgffo4NY_HpVrrchOjduA/1710338123/2018/2015/tt6166392.mp4"
+         "image": "https://image.tmdb.org/t/p/w500/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+         "action": "video:https://www.sw.vidce.net/d/zikohJcyEwrcAAgi2duMPg/1765042704/video/2015/tt28510079.mp4"
       },
       {
          "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
@@ -97,16 +63,6 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/divergent.json"
       },
       {
-         "title": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg",
-         "playerLabel": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "action": "video:https://www.sw.vidce.net/d/WcY9rpqOehwH-eDRF6ferg/1710338265/2018/2015/tt17024450.mp4"
-      },
-      {
          "title": "Scream VI",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.5",
@@ -125,76 +81,6 @@
          "image": "https://image.tmdb.org/t/p/w500/96z2qZiq2WmmizR7hCUAUggpbtI.jpg",
          "playerLabel": "Μαθήματα Αποπλάνησης",
          "action": "video:https://www.sw.vidce.net/d/JtOnjqfKxeCrr0JJ1_YXuA/1710338333/2018/2015/tt15671028.mp4"
-      },
-      {
-         "title": "Fast X",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.9",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/jx9YsketQXqpThnMnWwOl4AqPPZ.jpg",
-         "playerLabel": "Fast X",
-         "action": "video:https://www.sw.vidce.net/d/o5-wZfjPqbMW5cPkE2p4jw/1710338373/2018/2015/tt5433140.mp4"
-      },
-      {
-         "title": "John Wick 4",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/zEzqC3VmVZ8ixRSm4XkTwMhRJuB.jpg",
-         "playerLabel": "John Wick: Κεφάλαιο 4",
-         "action": "video:https://www.sw.vidce.net/d/TsViBg6LeaTBHWa1KVjB8g/1710338389/2018/2015/tt10366206.mp4"
-      },
-      {
-         "title": "Στα Ίχνη του Δολοφόνου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/tFbLqSDGqlesfYPxnkoxeU3yAhB.jpg",
-         "playerLabel": "Στα Ίχνη του Δολοφόνου",
-         "action": "video:https://www.sw.vidce.net/d/w1xcM0ET0aFbQdFnTHX7Xw/1710338413/2018/2015/tt10275534.mp4"
-      },
-      {
-         "title": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/i25nEOGfXBwMeLij0jBTBi5Xlkl.jpg",
-         "playerLabel": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
-         "action": "video:https://www.sw.vidce.net/d/xyKqrXdX9rmaN4CmGDX4Gg/1710338439/2018/2015/tt1462764.mp4"
-      },
-      {
-         "title": "Magic Mike 2",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
-         "playerLabel": "Magic Mike: O Τελευταίος Του Χορός",
-         "action": "video:https://www.sw.vidce.net/d/_8oxHPl17JBGhvgWlPXJiQ/1710338472/2018/2015/tt16280138.mp4"
-      },
-      {
-         "title": "Γάμος μετ' εμποδίων",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}5.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
-         "playerLabel": "Shotgun Wedding",
-         "action": "video:https://www.sw.vidce.net/d/La4Cj3ddHdxLRq_uRlaGrg/1690983670/2018/2015/tt9686790.mp4"
-      },
-      {
-         "title": "Εκτός ελέγχου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
-         "playerLabel": "Εκτός ελέγχου",
-         "action": "video:https://www.sw.vidce.net/d/iPO5oDRIjwSfTpu9jze2fA/1690983767/2018/2015/tt5884796.mp4"
       }
    ]
 }
