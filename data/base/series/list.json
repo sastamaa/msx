@@ -17,6 +17,15 @@
          "image": "https://image.tmdb.org/t/p/w780/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/stranger_things.json"
       },
+       {
+         "title": "IT: Welcome to Derry",
+         "titleFooter": "2025",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/it.json"
+      },
       {
          "title": "Dune: Prophecy",
          "titleFooter": "2024",
