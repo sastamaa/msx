@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Ana Pumpkin",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/260yAhR9AkffkDtHpyON7JMCmE7.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/series/ana_filoute.json"
+      },
+      {
          "title": "Εγώ, ο Απαισιότατος 4",
          "titleFooter": "2024",
          "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
@@ -16,7 +25,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/lngj6f7sJ6P1us84RPs2ZLTKPYB.jpg",
          "playerLabel": "Εγώ, ο Απαισιότατος 4",
-         "action": "video:https://www.sw.vidce.net/d/hvFrmt5izhIOtvCEqr3vkg/1724831585/video/2015/tt7510222.mp4"
+         "action": "video:https://www.sw.vidce.net/d/I_-JfiLwV9NwMXZ1OqfeiA/1767650707/video/2015/tt7510222GR.mp4"
       },
       {
          "title": "Τα μυαλά που κουβαλάς 2",
@@ -26,7 +35,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/htIJ70YqNxFEU81uBcGWbUpbxW2.jpg",
          "playerLabel": "Τα μυαλά που κουβαλάς 2",
-         "action": "video:https://www.sw.vidce.net/d/8d8vOktiQH8Uu6_4RCFMkw/1724831261/video/2015/tt22022452.mp4"
+         "action": "video:https://www.sw.vidce.net/d/YSdKpAAvmSHcEMBQdbO0Gw/1767650742/video/2015/tt22022452GR.mp4"
       },
       {
          "title": "Φανταστικοί Φίλοι",
