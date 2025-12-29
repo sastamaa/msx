@@ -25,15 +25,24 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/it.json"
-      },
-      {
-         "title": "Dune: Prophecy",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}7.3",
+      },   
+       {
+         "title": "Sandokan",
+         "titleFooter": "2025",
+         "badge": "{col:msx-white}6.7",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/5B8Cxz8ZZXp3w2WmmdKTXpkS24e.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/dune.json"
+         "image": "https://image.tmdb.org/t/p/w780/6P5WCgqB4D5jL8FDx0ZlNyUu5X5.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/sandokan.json"
+      },
+      {
+         "title": "Longmire",
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}8.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/longmire.json"
       },
       {
          "title": "Landman",
@@ -52,15 +61,6 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/cJLRTZ55xgp7htkOVdeSQ82E7xN.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cobra_kai.json"
-      },
-      {
-         "title": "The Day of the Jackal",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}8.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/jackal.json"
       },
       {
          "title": "The Boys",
@@ -98,23 +98,5 @@
          "image": "https://image.tmdb.org/t/p/w780/mPiDMJC5vCz1xYR3qX7zzBxLRcC.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cruel_summer.json"
       },
-      {
-         "title": "Ανάμεσα στο Πλήθος",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/wI7FtSMBOAfv24jItWlMk7NlxfH.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_crowded_room.json"
-      },
-      {
-         "title": "Αεροπειρατεία",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/a08WDt2I0jchc6ySQN8mnAdta5z.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/hijack.json"
-      }
    ]
 }
