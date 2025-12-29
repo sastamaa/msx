@@ -310,6 +310,21 @@
                         "title": "EP 4",
                         "playerLabel": "Episode 4",
                         "action": "video:https://www.cdn.vidce.net/d/xlphNC3zAkFDwQdTxucsNA/1765042368/video/Stranger_Things/5x04.mp4"
+                     },
+                     {
+                        "title": "EP 5",
+                        "playerLabel": "Episode 5",
+                        "action": "video:https://www.cdn.vidce.net/d/-rDR2bsq_v7XpLygnSdBhw/1767646469/video/Stranger_Things/5x05.mp4"
+                     },
+                     {
+                        "title": "EP 6",
+                        "playerLabel": "Episode 6",
+                        "action": "video:https://www.cdn.vidce.net/d/-rDR2bsq_v7XpLygnSdBhw/1767646469/video/Stranger_Things/5x06.mp4"
+                     },
+                     {
+                        "title": "EP 7",
+                        "playerLabel": "Episode 7",
+                        "action": "video:https://www.cdn.vidce.net/d/-rDR2bsq_v7XpLygnSdBhw/1767646469/video/Stranger_Things/5x07.mp4"
                      }
                   ]
                }
