@@ -97,6 +97,6 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/mPiDMJC5vCz1xYR3qX7zzBxLRcC.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cruel_summer.json"
-      },
+      }
    ]
 }
