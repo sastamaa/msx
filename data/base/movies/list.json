@@ -80,7 +80,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/96z2qZiq2WmmizR7hCUAUggpbtI.jpg",
          "playerLabel": "Μαθήματα Αποπλάνησης",
-         "action": "video:https://www.sw.vidce.net/d/JtOnjqfKxeCrr0JJ1_YXuA/1710338333/2018/2015/tt15671028.mp4"
+         "action": "link:https://coverapi.store/embed/tt27444205/"
       }
    ]
 }
