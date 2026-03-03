@@ -18,69 +18,16 @@
    },
    "items": [
        {
-         "title": "Culpa tuya",
-         "titleFooter": "2024",
-         "image": "https://image.tmdb.org/t/p/w500/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
-        "action": "link:https://coverapi.store/embed/tt31050594/"
+         "title": "Η Μπλόφα",
+         "titleFooter": "2026",
+         "image": "https://image.tmdb.org/t/p/w500/eMrEK1ZVvmeHoQdLsxUwntPAACj.jpg",
+        "action": "link:https://coverapi.store/embed/tt14181714/"
       },
-      {
-         "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
-         "playerLabel": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
-         "action": "video:https://www.sw.vidce.net/d/ZdKH3FBcJ6Jkg8rojCqyog/1710338148/2018/2015/tt10545296.mp4"
-      },
-      {
-         "title": "Μυστήριο στη Βενετία",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/lqFJHHUECKiH9s2oxT3rfG490WV.jpg",
-         "playerLabel": "Μυστήριο στη Βενετία",
-         "action": "video:https://sw.nuyhtiukmijvcjuhb.site/d/VNO6AK-WNfTn26HvqGIUXw/1772059790/video/2015/tt31050594.mp4"
-      },
-      {
-         "title": "Αγώνες πείνας 1-4",
-         "titleFooter": "2012 - 2015",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/3vN0Tz1GVGuyq2I7E1wvfKyAAAy.jpg",
-         "playerLabel": "sample",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/hunger_games.json"
-      },
-      {
-         "title": "Η τριλογία της απόκλισης 1-3",
-         "titleFooter": "2014 - 2016",
-         "badge": "{col:msx-white}5.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kIjGKY47bVwADWpJS875Lfz2Sin.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/divergent.json"
-      },
-      {
-         "title": "Scream VI",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
-         "playerLabel": "Scream VI",
-         "action": "video:https://www.sw.vidce.net/d/qnVnzzLtf78orl3ovvfdmg/1710338306/2018/2015/tt17663992.mp4"
-      },
-      {
-         "title": "Μαθήματα Αποπλάνησης",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/96z2qZiq2WmmizR7hCUAUggpbtI.jpg",
-         "playerLabel": "Μαθήματα Αποπλάνησης",
-         "action": "link:https://coverapi.store/embed/tt27444205/"
+ {
+         "title": "Το Καταφύγιο",
+         "titleFooter": "2026",
+         "image": "https://image.tmdb.org/t/p/w500/afWzpJI8ibS5vh8SrHVFhG1NcR4.jpg",
+        "action": "link:https://coverapi.store/embed/tt32357218/"
       }
    ]
 }
