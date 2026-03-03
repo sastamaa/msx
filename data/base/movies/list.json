@@ -21,7 +21,7 @@
          "title": "Culpa tuya",
          "titleFooter": "2024",
          "image": "https://image.tmdb.org/t/p/w500/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
-         "action": "video:https://coverapi.store/embed/tt31050594/"
+        "action": "link:https://coverapi.store/embed/tt31050594/"
       },
       {
          "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
