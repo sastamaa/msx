@@ -21,13 +21,13 @@
          "title": "The Furious",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-         "action": "video:https://streamtape.com/v/V840kYar2MSKRee/The_Furious_2026.mp4"
+         "action": "link:https://streamtape.com/v/V840kYar2MSKRee/The_Furious_2026.mp4"
       },
  {
          "title": "Zootopia 2",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/9HZ88hvqU6XfgyXwKaSMkjWpkkj.jpg",
-        "action": "video:https://streamtape.com/e/AqRYO6YwyLSb1v/Zootopia.mp4"
+        "action": "link:https://streamtape.com/e/AqRYO6YwyLSb1v/Zootopia.mp4"
       }
    ]
 }
