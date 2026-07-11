@@ -15,13 +15,13 @@
          "title": "Η Μπλόφα",
          "titleFooter": "2026",
          "image": "https://image.tmdb.org/t/p/w500/eMrEK1ZVvmeHoQdLsxUwntPAACj.jpg",
-         "action": "video:resolve:https://msx-resolver.vercel.app/api/resolve?id=blofa"
+         "action": "video:https://vz-7a8508db-85c.b-cdn.net/24a0a9a9-14d9-4bfb-8e24-1c9028853bb5/playlist.m3u8"
       },
       {
          "title": "The Furious",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-         "action": "video:https://872371613.tapecontent.net/radosgw/V840kYar2MSKRee/8BglxZpxYcJIeOt0MkUpaoAkX_rmkl1i6sef2L2lM9rNfcVSOPO8wpBJhdHuYKDjyK-oW-FKFkPXtqY5QycxPYrVA5LcIjcV3d-Q2zJomXg60Y4s8QsgDlhcpXO5svZzEZPmsTT1g21S6mF-EwkI6jGWsM6iSgWZvckLHG0G8D1IgEy8xaWf7N5Zl8YfffBtz43i5LKpALK_vO5K2865l3gWasU2e1RprvJFKbZsmxnATCmS6ULIS1Ky8ALgQhhTeDclHxz2C0YF-sLophLPF7vUEi6ASFWvBTAD7Qk8d4K8e2Z1MGUp3Xnp3Kc/The+Furious+2026.mp4?stream=1"
+         "action": "link:https://player.mediadelivery.net/play/702504/24a0a9a9-14d9-4bfb-8e24-1c9028853bb5"
       },
       {
          "title": "Zootopia 2",
