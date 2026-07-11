@@ -56,10 +56,7 @@ function ResolveHandler() {
 
       callback({
         url: url,
-        label: entry.label,
-        properties: {
-          "user-agent-note": info && info.userAgent ? info.userAgent : "unknown"
-        }
+        label: entry.label
       });
     });
   };
