@@ -15,19 +15,19 @@
          "title": "Η Μπλόφα",
          "titleFooter": "2026",
          "image": "https://image.tmdb.org/t/p/w500/eMrEK1ZVvmeHoQdLsxUwntPAACj.jpg",
-         "action": "video:resolve:request:interaction:blofa@https://sastamaa.github.io/msx/interaction/resolve.html"
+         "action": "video:resolve:https://msx-resolver.vercel.app/api/resolve?id=blofa"
       },
       {
          "title": "The Furious",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-         "action": "video:resolve:request:interaction:the-furious@https://sastamaa.github.io/msx/interaction/resolve.html"
+         "action": "video:resolve:https://msx-resolver.vercel.app/api/resolve?id=the-furious"
       },
       {
          "title": "Zootopia 2",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/9HZ88hvqU6XfgyXwKaSMkjWpkkj.jpg",
-         "action": "video:resolve:request:interaction:zootopia-2@https://sastamaa.github.io/msx/interaction/resolve.html"
+         "action": "video:resolve:https://msx-resolver.vercel.app/api/resolve?id=zootopia-2"
       }
    ]
 }
