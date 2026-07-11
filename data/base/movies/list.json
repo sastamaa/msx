@@ -11,23 +11,23 @@
       "titleFooter": "Title Footer"
    },
    "items": [
-       {
+      {
          "title": "Η Μπλόφα",
          "titleFooter": "2026",
          "image": "https://image.tmdb.org/t/p/w500/eMrEK1ZVvmeHoQdLsxUwntPAACj.jpg",
-        "action": "link:https://coverapi.store/embed/tt14181714/"
+         "action": "video:resolve:request:interaction:blofa@https://sastamaa.github.io/msx/interaction/resolve.html"
       },
-          {
+      {
          "title": "The Furious",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-         "action": "link:https://streamtape.com/v/V840kYar2MSKRee/The_Furious_2026.mp4"
+         "action": "video:resolve:request:interaction:the-furious@https://sastamaa.github.io/msx/interaction/resolve.html"
       },
- {
+      {
          "title": "Zootopia 2",
          "titleFooter": "2025",
          "image": "https://image.tmdb.org/t/p/w500/9HZ88hvqU6XfgyXwKaSMkjWpkkj.jpg",
-        "action": "link:https://streamtape.com/e/AqRYO6YwyLSb1v/Zootopia.mp4"
+         "action": "video:resolve:request:interaction:zootopia-2@https://sastamaa.github.io/msx/interaction/resolve.html"
       }
    ]
 }
